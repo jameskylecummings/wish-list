@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="James Cummings">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="wish-list">322d3001e760211045363d4479856e95</dashboard>
+        <last_updated_on>2022-06-07 16:37:46</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 15:37:58</sys_created_on>
+        <sys_id>362d300182602110b6799f230997179c</sys_id>
+        <sys_name/>
+        <sys_package display_value="wish-list" source="x_827617_wish_li_1">d2bcb4cd1b2021103515a8e5604bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wish-list">d2bcb4cd1b2021103515a8e5604bcb1c</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_362d300182602110b6799f230997179c</sys_update_name>
+        <updated_by_user display_value="James Cummings">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

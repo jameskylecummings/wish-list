@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record Information">7e2d3001b9602110b0c38a454894d094</macroponent>
+        <name>loader___isHidden__</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.imports
+ */
+function evaluateProperty({
+    api
+}) {
+    return !api.state.isLoading;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 15:37:58</sys_created_on>
+        <sys_id>3e2d3001fa602110838ae11aa9793b98</sys_id>
+        <sys_name>loader___isHidden__</sys_name>
+        <sys_package display_value="wish-list" source="x_827617_wish_li_1">d2bcb4cd1b2021103515a8e5604bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wish-list">d2bcb4cd1b2021103515a8e5604bcb1c</sys_scope>
+        <sys_update_name>sys_ux_client_script_3e2d3001fa602110838ae11aa9793b98</sys_update_name>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

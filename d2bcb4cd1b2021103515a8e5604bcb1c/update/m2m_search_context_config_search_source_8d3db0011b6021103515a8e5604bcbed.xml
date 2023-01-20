@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="wish-list - Workspace Search">722d30019360211018158ec80b6ac999</search_context_config>
+        <source display_value="wish-list - ">413db0011b6021103515a8e5604bcbeb</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 15:38:05</sys_created_on>
+        <sys_id>8d3db0011b6021103515a8e5604bcbed</sys_id>
+        <sys_name/>
+        <sys_package display_value="wish-list" source="x_827617_wish_li_1">d2bcb4cd1b2021103515a8e5604bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wish-list">d2bcb4cd1b2021103515a8e5604bcb1c</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_8d3db0011b6021103515a8e5604bcbed</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

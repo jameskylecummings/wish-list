@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="jim">853db0011b6021103515a8e5604bcbf7</ais_search_source>
+        <label>jim</label>
+        <name>jim</name>
+        <order>100</order>
+        <search_context_config display_value="wish-list AI Search Configuration">7e2d30012360211074d6fbb9ff845d98</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-20 15:38:06</sys_created_on>
+        <sys_id>493df0011b6021103515a8e5604bcb1e</sys_id>
+        <sys_name>jim</sys_name>
+        <sys_package display_value="wish-list" source="x_827617_wish_li_1">d2bcb4cd1b2021103515a8e5604bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wish-list">d2bcb4cd1b2021103515a8e5604bcb1c</sys_scope>
+        <sys_update_name>sys_search_filter_493df0011b6021103515a8e5604bcb1e</sys_update_name>
+    </sys_search_filter>
+</record_update>
